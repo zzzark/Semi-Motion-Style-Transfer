@@ -1,0 +1,2232 @@
+[
+    {
+        "class_id": 0,
+        "file_id": 0,
+        "num_clip": 4
+    },
+    {
+        "class_id": 0,
+        "file_id": 1,
+        "num_clip": 3
+    },
+    {
+        "class_id": 0,
+        "file_id": 2,
+        "num_clip": 1
+    },
+    {
+        "class_id": 0,
+        "file_id": 3,
+        "num_clip": 6
+    },
+    {
+        "class_id": 0,
+        "file_id": 4,
+        "num_clip": 27
+    },
+    {
+        "class_id": 0,
+        "file_id": 5,
+        "num_clip": 33
+    },
+    {
+        "class_id": 0,
+        "file_id": 6,
+        "num_clip": 34
+    },
+    {
+        "class_id": 0,
+        "file_id": 7,
+        "num_clip": 22
+    },
+    {
+        "class_id": 0,
+        "file_id": 8,
+        "num_clip": 15
+    },
+    {
+        "class_id": 0,
+        "file_id": 9,
+        "num_clip": 40
+    },
+    {
+        "class_id": 1,
+        "file_id": 0,
+        "num_clip": 8
+    },
+    {
+        "class_id": 1,
+        "file_id": 1,
+        "num_clip": 16
+    },
+    {
+        "class_id": 1,
+        "file_id": 2,
+        "num_clip": 5
+    },
+    {
+        "class_id": 1,
+        "file_id": 3,
+        "num_clip": 17
+    },
+    {
+        "class_id": 1,
+        "file_id": 4,
+        "num_clip": 13
+    },
+    {
+        "class_id": 1,
+        "file_id": 5,
+        "num_clip": 12
+    },
+    {
+        "class_id": 1,
+        "file_id": 6,
+        "num_clip": 17
+    },
+    {
+        "class_id": 1,
+        "file_id": 7,
+        "num_clip": 10
+    },
+    {
+        "class_id": 1,
+        "file_id": 8,
+        "num_clip": 16
+    },
+    {
+        "class_id": 1,
+        "file_id": 9,
+        "num_clip": 11
+    },
+    {
+        "class_id": 1,
+        "file_id": 10,
+        "num_clip": 8
+    },
+    {
+        "class_id": 1,
+        "file_id": 11,
+        "num_clip": 20
+    },
+    {
+        "class_id": 1,
+        "file_id": 12,
+        "num_clip": 16
+    },
+    {
+        "class_id": 1,
+        "file_id": 13,
+        "num_clip": 8
+    },
+    {
+        "class_id": 1,
+        "file_id": 14,
+        "num_clip": 7
+    },
+    {
+        "class_id": 1,
+        "file_id": 15,
+        "num_clip": 7
+    },
+    {
+        "class_id": 1,
+        "file_id": 16,
+        "num_clip": 15
+    },
+    {
+        "class_id": 1,
+        "file_id": 17,
+        "num_clip": 27
+    },
+    {
+        "class_id": 1,
+        "file_id": 18,
+        "num_clip": 12
+    },
+    {
+        "class_id": 1,
+        "file_id": 19,
+        "num_clip": 16
+    },
+    {
+        "class_id": 2,
+        "file_id": 0,
+        "num_clip": 8
+    },
+    {
+        "class_id": 3,
+        "file_id": 0,
+        "num_clip": 35
+    },
+    {
+        "class_id": 3,
+        "file_id": 1,
+        "num_clip": 53
+    },
+    {
+        "class_id": 3,
+        "file_id": 2,
+        "num_clip": 56
+    },
+    {
+        "class_id": 3,
+        "file_id": 3,
+        "num_clip": 73
+    },
+    {
+        "class_id": 3,
+        "file_id": 4,
+        "num_clip": 67
+    },
+    {
+        "class_id": 3,
+        "file_id": 5,
+        "num_clip": 67
+    },
+    {
+        "class_id": 3,
+        "file_id": 6,
+        "num_clip": 21
+    },
+    {
+        "class_id": 3,
+        "file_id": 7,
+        "num_clip": 23
+    },
+    {
+        "class_id": 3,
+        "file_id": 8,
+        "num_clip": 16
+    },
+    {
+        "class_id": 3,
+        "file_id": 9,
+        "num_clip": 36
+    },
+    {
+        "class_id": 3,
+        "file_id": 10,
+        "num_clip": 5
+    },
+    {
+        "class_id": 3,
+        "file_id": 11,
+        "num_clip": 52
+    },
+    {
+        "class_id": 3,
+        "file_id": 12,
+        "num_clip": 5
+    },
+    {
+        "class_id": 3,
+        "file_id": 13,
+        "num_clip": 36
+    },
+    {
+        "class_id": 3,
+        "file_id": 14,
+        "num_clip": 36
+    },
+    {
+        "class_id": 3,
+        "file_id": 15,
+        "num_clip": 34
+    },
+    {
+        "class_id": 3,
+        "file_id": 16,
+        "num_clip": 74
+    },
+    {
+        "class_id": 3,
+        "file_id": 17,
+        "num_clip": 45
+    },
+    {
+        "class_id": 3,
+        "file_id": 18,
+        "num_clip": 5
+    },
+    {
+        "class_id": 3,
+        "file_id": 19,
+        "num_clip": 88
+    },
+    {
+        "class_id": 3,
+        "file_id": 20,
+        "num_clip": 83
+    },
+    {
+        "class_id": 3,
+        "file_id": 21,
+        "num_clip": 76
+    },
+    {
+        "class_id": 3,
+        "file_id": 22,
+        "num_clip": 61
+    },
+    {
+        "class_id": 3,
+        "file_id": 23,
+        "num_clip": 61
+    },
+    {
+        "class_id": 3,
+        "file_id": 24,
+        "num_clip": 61
+    },
+    {
+        "class_id": 3,
+        "file_id": 25,
+        "num_clip": 46
+    },
+    {
+        "class_id": 3,
+        "file_id": 26,
+        "num_clip": 64
+    },
+    {
+        "class_id": 3,
+        "file_id": 27,
+        "num_clip": 63
+    },
+    {
+        "class_id": 3,
+        "file_id": 28,
+        "num_clip": 70
+    },
+    {
+        "class_id": 3,
+        "file_id": 29,
+        "num_clip": 37
+    },
+    {
+        "class_id": 3,
+        "file_id": 30,
+        "num_clip": 46
+    },
+    {
+        "class_id": 3,
+        "file_id": 31,
+        "num_clip": 4
+    },
+    {
+        "class_id": 3,
+        "file_id": 32,
+        "num_clip": 22
+    },
+    {
+        "class_id": 3,
+        "file_id": 33,
+        "num_clip": 21
+    },
+    {
+        "class_id": 3,
+        "file_id": 34,
+        "num_clip": 17
+    },
+    {
+        "class_id": 3,
+        "file_id": 35,
+        "num_clip": 20
+    },
+    {
+        "class_id": 3,
+        "file_id": 36,
+        "num_clip": 22
+    },
+    {
+        "class_id": 3,
+        "file_id": 37,
+        "num_clip": 18
+    },
+    {
+        "class_id": 3,
+        "file_id": 38,
+        "num_clip": 4
+    },
+    {
+        "class_id": 3,
+        "file_id": 39,
+        "num_clip": 3
+    },
+    {
+        "class_id": 3,
+        "file_id": 40,
+        "num_clip": 4
+    },
+    {
+        "class_id": 3,
+        "file_id": 41,
+        "num_clip": 5
+    },
+    {
+        "class_id": 4,
+        "file_id": 0,
+        "num_clip": 86
+    },
+    {
+        "class_id": 4,
+        "file_id": 1,
+        "num_clip": 83
+    },
+    {
+        "class_id": 4,
+        "file_id": 2,
+        "num_clip": 85
+    },
+    {
+        "class_id": 4,
+        "file_id": 3,
+        "num_clip": 10
+    },
+    {
+        "class_id": 4,
+        "file_id": 4,
+        "num_clip": 12
+    },
+    {
+        "class_id": 4,
+        "file_id": 5,
+        "num_clip": 82
+    },
+    {
+        "class_id": 4,
+        "file_id": 6,
+        "num_clip": 33
+    },
+    {
+        "class_id": 4,
+        "file_id": 7,
+        "num_clip": 39
+    },
+    {
+        "class_id": 4,
+        "file_id": 8,
+        "num_clip": 50
+    },
+    {
+        "class_id": 4,
+        "file_id": 9,
+        "num_clip": 65
+    },
+    {
+        "class_id": 4,
+        "file_id": 10,
+        "num_clip": 65
+    },
+    {
+        "class_id": 4,
+        "file_id": 11,
+        "num_clip": 41
+    },
+    {
+        "class_id": 4,
+        "file_id": 12,
+        "num_clip": 49
+    },
+    {
+        "class_id": 4,
+        "file_id": 13,
+        "num_clip": 71
+    },
+    {
+        "class_id": 4,
+        "file_id": 14,
+        "num_clip": 70
+    },
+    {
+        "class_id": 4,
+        "file_id": 15,
+        "num_clip": 88
+    },
+    {
+        "class_id": 4,
+        "file_id": 16,
+        "num_clip": 37
+    },
+    {
+        "class_id": 4,
+        "file_id": 17,
+        "num_clip": 48
+    },
+    {
+        "class_id": 4,
+        "file_id": 18,
+        "num_clip": 41
+    },
+    {
+        "class_id": 4,
+        "file_id": 19,
+        "num_clip": 71
+    },
+    {
+        "class_id": 4,
+        "file_id": 20,
+        "num_clip": 17
+    },
+    {
+        "class_id": 4,
+        "file_id": 21,
+        "num_clip": 17
+    },
+    {
+        "class_id": 4,
+        "file_id": 22,
+        "num_clip": 19
+    },
+    {
+        "class_id": 4,
+        "file_id": 23,
+        "num_clip": 56
+    },
+    {
+        "class_id": 4,
+        "file_id": 24,
+        "num_clip": 68
+    },
+    {
+        "class_id": 4,
+        "file_id": 25,
+        "num_clip": 72
+    },
+    {
+        "class_id": 4,
+        "file_id": 26,
+        "num_clip": 32
+    },
+    {
+        "class_id": 4,
+        "file_id": 27,
+        "num_clip": 30
+    },
+    {
+        "class_id": 4,
+        "file_id": 28,
+        "num_clip": 38
+    },
+    {
+        "class_id": 4,
+        "file_id": 29,
+        "num_clip": 39
+    },
+    {
+        "class_id": 4,
+        "file_id": 30,
+        "num_clip": 31
+    },
+    {
+        "class_id": 4,
+        "file_id": 31,
+        "num_clip": 40
+    },
+    {
+        "class_id": 4,
+        "file_id": 32,
+        "num_clip": 20
+    },
+    {
+        "class_id": 4,
+        "file_id": 33,
+        "num_clip": 21
+    },
+    {
+        "class_id": 4,
+        "file_id": 34,
+        "num_clip": 24
+    },
+    {
+        "class_id": 4,
+        "file_id": 35,
+        "num_clip": 31
+    },
+    {
+        "class_id": 4,
+        "file_id": 36,
+        "num_clip": 6
+    },
+    {
+        "class_id": 5,
+        "file_id": 0,
+        "num_clip": 85
+    },
+    {
+        "class_id": 5,
+        "file_id": 1,
+        "num_clip": 342
+    },
+    {
+        "class_id": 5,
+        "file_id": 2,
+        "num_clip": 195
+    },
+    {
+        "class_id": 5,
+        "file_id": 3,
+        "num_clip": 351
+    },
+    {
+        "class_id": 5,
+        "file_id": 4,
+        "num_clip": 357
+    },
+    {
+        "class_id": 5,
+        "file_id": 5,
+        "num_clip": 55
+    },
+    {
+        "class_id": 5,
+        "file_id": 6,
+        "num_clip": 84
+    },
+    {
+        "class_id": 5,
+        "file_id": 7,
+        "num_clip": 59
+    },
+    {
+        "class_id": 5,
+        "file_id": 8,
+        "num_clip": 121
+    },
+    {
+        "class_id": 5,
+        "file_id": 9,
+        "num_clip": 42
+    },
+    {
+        "class_id": 5,
+        "file_id": 10,
+        "num_clip": 145
+    },
+    {
+        "class_id": 5,
+        "file_id": 11,
+        "num_clip": 140
+    },
+    {
+        "class_id": 5,
+        "file_id": 12,
+        "num_clip": 144
+    },
+    {
+        "class_id": 5,
+        "file_id": 13,
+        "num_clip": 139
+    },
+    {
+        "class_id": 6,
+        "file_id": 0,
+        "num_clip": 9
+    },
+    {
+        "class_id": 6,
+        "file_id": 1,
+        "num_clip": 31
+    },
+    {
+        "class_id": 6,
+        "file_id": 2,
+        "num_clip": 22
+    },
+    {
+        "class_id": 6,
+        "file_id": 3,
+        "num_clip": 2
+    },
+    {
+        "class_id": 6,
+        "file_id": 4,
+        "num_clip": 1
+    },
+    {
+        "class_id": 6,
+        "file_id": 5,
+        "num_clip": 6
+    },
+    {
+        "class_id": 6,
+        "file_id": 6,
+        "num_clip": 6
+    },
+    {
+        "class_id": 6,
+        "file_id": 7,
+        "num_clip": 7
+    },
+    {
+        "class_id": 6,
+        "file_id": 8,
+        "num_clip": 28
+    },
+    {
+        "class_id": 6,
+        "file_id": 9,
+        "num_clip": 21
+    },
+    {
+        "class_id": 6,
+        "file_id": 10,
+        "num_clip": 17
+    },
+    {
+        "class_id": 6,
+        "file_id": 11,
+        "num_clip": 16
+    },
+    {
+        "class_id": 6,
+        "file_id": 12,
+        "num_clip": 7
+    },
+    {
+        "class_id": 6,
+        "file_id": 13,
+        "num_clip": 8
+    },
+    {
+        "class_id": 6,
+        "file_id": 14,
+        "num_clip": 13
+    },
+    {
+        "class_id": 6,
+        "file_id": 15,
+        "num_clip": 16
+    },
+    {
+        "class_id": 6,
+        "file_id": 16,
+        "num_clip": 10
+    },
+    {
+        "class_id": 6,
+        "file_id": 17,
+        "num_clip": 16
+    },
+    {
+        "class_id": 6,
+        "file_id": 18,
+        "num_clip": 13
+    },
+    {
+        "class_id": 6,
+        "file_id": 19,
+        "num_clip": 12
+    },
+    {
+        "class_id": 6,
+        "file_id": 20,
+        "num_clip": 36
+    },
+    {
+        "class_id": 6,
+        "file_id": 21,
+        "num_clip": 19
+    },
+    {
+        "class_id": 7,
+        "file_id": 0,
+        "num_clip": 22
+    },
+    {
+        "class_id": 7,
+        "file_id": 1,
+        "num_clip": 52
+    },
+    {
+        "class_id": 7,
+        "file_id": 2,
+        "num_clip": 96
+    },
+    {
+        "class_id": 7,
+        "file_id": 3,
+        "num_clip": 104
+    },
+    {
+        "class_id": 7,
+        "file_id": 4,
+        "num_clip": 113
+    },
+    {
+        "class_id": 7,
+        "file_id": 5,
+        "num_clip": 104
+    },
+    {
+        "class_id": 7,
+        "file_id": 6,
+        "num_clip": 146
+    },
+    {
+        "class_id": 7,
+        "file_id": 7,
+        "num_clip": 64
+    },
+    {
+        "class_id": 8,
+        "file_id": 0,
+        "num_clip": 33
+    },
+    {
+        "class_id": 8,
+        "file_id": 1,
+        "num_clip": 31
+    },
+    {
+        "class_id": 8,
+        "file_id": 2,
+        "num_clip": 27
+    },
+    {
+        "class_id": 8,
+        "file_id": 3,
+        "num_clip": 28
+    },
+    {
+        "class_id": 8,
+        "file_id": 4,
+        "num_clip": 25
+    },
+    {
+        "class_id": 8,
+        "file_id": 5,
+        "num_clip": 26
+    },
+    {
+        "class_id": 8,
+        "file_id": 6,
+        "num_clip": 31
+    },
+    {
+        "class_id": 8,
+        "file_id": 7,
+        "num_clip": 52
+    },
+    {
+        "class_id": 8,
+        "file_id": 8,
+        "num_clip": 39
+    },
+    {
+        "class_id": 8,
+        "file_id": 9,
+        "num_clip": 17
+    },
+    {
+        "class_id": 8,
+        "file_id": 10,
+        "num_clip": 31
+    },
+    {
+        "class_id": 8,
+        "file_id": 11,
+        "num_clip": 25
+    },
+    {
+        "class_id": 8,
+        "file_id": 12,
+        "num_clip": 34
+    },
+    {
+        "class_id": 8,
+        "file_id": 13,
+        "num_clip": 29
+    },
+    {
+        "class_id": 8,
+        "file_id": 14,
+        "num_clip": 32
+    },
+    {
+        "class_id": 9,
+        "file_id": 0,
+        "num_clip": 33
+    },
+    {
+        "class_id": 9,
+        "file_id": 1,
+        "num_clip": 31
+    },
+    {
+        "class_id": 9,
+        "file_id": 2,
+        "num_clip": 27
+    },
+    {
+        "class_id": 9,
+        "file_id": 3,
+        "num_clip": 28
+    },
+    {
+        "class_id": 9,
+        "file_id": 4,
+        "num_clip": 25
+    },
+    {
+        "class_id": 9,
+        "file_id": 5,
+        "num_clip": 26
+    },
+    {
+        "class_id": 9,
+        "file_id": 6,
+        "num_clip": 31
+    },
+    {
+        "class_id": 9,
+        "file_id": 7,
+        "num_clip": 52
+    },
+    {
+        "class_id": 9,
+        "file_id": 8,
+        "num_clip": 39
+    },
+    {
+        "class_id": 9,
+        "file_id": 9,
+        "num_clip": 17
+    },
+    {
+        "class_id": 9,
+        "file_id": 10,
+        "num_clip": 31
+    },
+    {
+        "class_id": 9,
+        "file_id": 11,
+        "num_clip": 25
+    },
+    {
+        "class_id": 9,
+        "file_id": 12,
+        "num_clip": 34
+    },
+    {
+        "class_id": 9,
+        "file_id": 13,
+        "num_clip": 29
+    },
+    {
+        "class_id": 9,
+        "file_id": 14,
+        "num_clip": 32
+    },
+    {
+        "class_id": 10,
+        "file_id": 0,
+        "num_clip": 4
+    },
+    {
+        "class_id": 10,
+        "file_id": 1,
+        "num_clip": 2
+    },
+    {
+        "class_id": 10,
+        "file_id": 2,
+        "num_clip": 2
+    },
+    {
+        "class_id": 10,
+        "file_id": 3,
+        "num_clip": 3
+    },
+    {
+        "class_id": 10,
+        "file_id": 4,
+        "num_clip": 3
+    },
+    {
+        "class_id": 10,
+        "file_id": 5,
+        "num_clip": 10
+    },
+    {
+        "class_id": 10,
+        "file_id": 6,
+        "num_clip": 16
+    },
+    {
+        "class_id": 10,
+        "file_id": 7,
+        "num_clip": 16
+    },
+    {
+        "class_id": 10,
+        "file_id": 8,
+        "num_clip": 4
+    },
+    {
+        "class_id": 10,
+        "file_id": 9,
+        "num_clip": 3
+    },
+    {
+        "class_id": 10,
+        "file_id": 10,
+        "num_clip": 1
+    },
+    {
+        "class_id": 10,
+        "file_id": 11,
+        "num_clip": 6
+    },
+    {
+        "class_id": 10,
+        "file_id": 12,
+        "num_clip": 4
+    },
+    {
+        "class_id": 10,
+        "file_id": 13,
+        "num_clip": 5
+    },
+    {
+        "class_id": 10,
+        "file_id": 14,
+        "num_clip": 26
+    },
+    {
+        "class_id": 10,
+        "file_id": 15,
+        "num_clip": 4
+    },
+    {
+        "class_id": 10,
+        "file_id": 16,
+        "num_clip": 3
+    },
+    {
+        "class_id": 10,
+        "file_id": 17,
+        "num_clip": 3
+    },
+    {
+        "class_id": 10,
+        "file_id": 18,
+        "num_clip": 10
+    },
+    {
+        "class_id": 10,
+        "file_id": 19,
+        "num_clip": 6
+    },
+    {
+        "class_id": 11,
+        "file_id": 0,
+        "num_clip": 8
+    },
+    {
+        "class_id": 11,
+        "file_id": 1,
+        "num_clip": 11
+    },
+    {
+        "class_id": 11,
+        "file_id": 2,
+        "num_clip": 12
+    },
+    {
+        "class_id": 11,
+        "file_id": 3,
+        "num_clip": 13
+    },
+    {
+        "class_id": 11,
+        "file_id": 4,
+        "num_clip": 14
+    },
+    {
+        "class_id": 11,
+        "file_id": 5,
+        "num_clip": 8
+    },
+    {
+        "class_id": 11,
+        "file_id": 6,
+        "num_clip": 4
+    },
+    {
+        "class_id": 11,
+        "file_id": 7,
+        "num_clip": 5
+    },
+    {
+        "class_id": 11,
+        "file_id": 8,
+        "num_clip": 12
+    },
+    {
+        "class_id": 11,
+        "file_id": 9,
+        "num_clip": 9
+    },
+    {
+        "class_id": 11,
+        "file_id": 10,
+        "num_clip": 0
+    },
+    {
+        "class_id": 11,
+        "file_id": 11,
+        "num_clip": 14
+    },
+    {
+        "class_id": 11,
+        "file_id": 12,
+        "num_clip": 9
+    },
+    {
+        "class_id": 11,
+        "file_id": 13,
+        "num_clip": 10
+    },
+    {
+        "class_id": 11,
+        "file_id": 14,
+        "num_clip": 12
+    },
+    {
+        "class_id": 11,
+        "file_id": 15,
+        "num_clip": 10
+    },
+    {
+        "class_id": 11,
+        "file_id": 16,
+        "num_clip": 11
+    },
+    {
+        "class_id": 11,
+        "file_id": 17,
+        "num_clip": 11
+    },
+    {
+        "class_id": 11,
+        "file_id": 18,
+        "num_clip": 9
+    },
+    {
+        "class_id": 11,
+        "file_id": 19,
+        "num_clip": 10
+    },
+    {
+        "class_id": 11,
+        "file_id": 20,
+        "num_clip": 11
+    },
+    {
+        "class_id": 11,
+        "file_id": 21,
+        "num_clip": 12
+    },
+    {
+        "class_id": 11,
+        "file_id": 22,
+        "num_clip": 10
+    },
+    {
+        "class_id": 11,
+        "file_id": 23,
+        "num_clip": 10
+    },
+    {
+        "class_id": 11,
+        "file_id": 24,
+        "num_clip": 8
+    },
+    {
+        "class_id": 11,
+        "file_id": 25,
+        "num_clip": 15
+    },
+    {
+        "class_id": 11,
+        "file_id": 26,
+        "num_clip": 12
+    },
+    {
+        "class_id": 11,
+        "file_id": 27,
+        "num_clip": 5
+    },
+    {
+        "class_id": 11,
+        "file_id": 28,
+        "num_clip": 9
+    },
+    {
+        "class_id": 11,
+        "file_id": 29,
+        "num_clip": 11
+    },
+    {
+        "class_id": 11,
+        "file_id": 30,
+        "num_clip": 7
+    },
+    {
+        "class_id": 11,
+        "file_id": 31,
+        "num_clip": 13
+    },
+    {
+        "class_id": 11,
+        "file_id": 32,
+        "num_clip": 7
+    },
+    {
+        "class_id": 11,
+        "file_id": 33,
+        "num_clip": 10
+    },
+    {
+        "class_id": 11,
+        "file_id": 34,
+        "num_clip": 17
+    },
+    {
+        "class_id": 11,
+        "file_id": 35,
+        "num_clip": 7
+    },
+    {
+        "class_id": 11,
+        "file_id": 36,
+        "num_clip": 8
+    },
+    {
+        "class_id": 11,
+        "file_id": 37,
+        "num_clip": 7
+    },
+    {
+        "class_id": 11,
+        "file_id": 38,
+        "num_clip": 11
+    },
+    {
+        "class_id": 11,
+        "file_id": 39,
+        "num_clip": 12
+    },
+    {
+        "class_id": 11,
+        "file_id": 40,
+        "num_clip": 16
+    },
+    {
+        "class_id": 11,
+        "file_id": 41,
+        "num_clip": 11
+    },
+    {
+        "class_id": 11,
+        "file_id": 42,
+        "num_clip": 14
+    },
+    {
+        "class_id": 11,
+        "file_id": 43,
+        "num_clip": 12
+    },
+    {
+        "class_id": 11,
+        "file_id": 44,
+        "num_clip": 12
+    },
+    {
+        "class_id": 11,
+        "file_id": 45,
+        "num_clip": 19
+    },
+    {
+        "class_id": 11,
+        "file_id": 46,
+        "num_clip": 18
+    },
+    {
+        "class_id": 11,
+        "file_id": 47,
+        "num_clip": 18
+    },
+    {
+        "class_id": 11,
+        "file_id": 48,
+        "num_clip": 15
+    },
+    {
+        "class_id": 11,
+        "file_id": 49,
+        "num_clip": 10
+    },
+    {
+        "class_id": 11,
+        "file_id": 50,
+        "num_clip": 12
+    },
+    {
+        "class_id": 11,
+        "file_id": 51,
+        "num_clip": 12
+    },
+    {
+        "class_id": 11,
+        "file_id": 52,
+        "num_clip": 10
+    },
+    {
+        "class_id": 11,
+        "file_id": 53,
+        "num_clip": 17
+    },
+    {
+        "class_id": 11,
+        "file_id": 54,
+        "num_clip": 8
+    },
+    {
+        "class_id": 11,
+        "file_id": 55,
+        "num_clip": 12
+    },
+    {
+        "class_id": 11,
+        "file_id": 56,
+        "num_clip": 14
+    },
+    {
+        "class_id": 11,
+        "file_id": 57,
+        "num_clip": 12
+    },
+    {
+        "class_id": 11,
+        "file_id": 58,
+        "num_clip": 12
+    },
+    {
+        "class_id": 11,
+        "file_id": 59,
+        "num_clip": 11
+    },
+    {
+        "class_id": 11,
+        "file_id": 60,
+        "num_clip": 15
+    },
+    {
+        "class_id": 11,
+        "file_id": 61,
+        "num_clip": 12
+    },
+    {
+        "class_id": 11,
+        "file_id": 62,
+        "num_clip": 15
+    },
+    {
+        "class_id": 11,
+        "file_id": 63,
+        "num_clip": 15
+    },
+    {
+        "class_id": 11,
+        "file_id": 64,
+        "num_clip": 9
+    },
+    {
+        "class_id": 11,
+        "file_id": 65,
+        "num_clip": 10
+    },
+    {
+        "class_id": 11,
+        "file_id": 66,
+        "num_clip": 18
+    },
+    {
+        "class_id": 11,
+        "file_id": 67,
+        "num_clip": 17
+    },
+    {
+        "class_id": 11,
+        "file_id": 68,
+        "num_clip": 11
+    },
+    {
+        "class_id": 11,
+        "file_id": 69,
+        "num_clip": 10
+    },
+    {
+        "class_id": 11,
+        "file_id": 70,
+        "num_clip": 15
+    },
+    {
+        "class_id": 11,
+        "file_id": 71,
+        "num_clip": 13
+    },
+    {
+        "class_id": 11,
+        "file_id": 72,
+        "num_clip": 12
+    },
+    {
+        "class_id": 11,
+        "file_id": 73,
+        "num_clip": 13
+    },
+    {
+        "class_id": 11,
+        "file_id": 74,
+        "num_clip": 19
+    },
+    {
+        "class_id": 11,
+        "file_id": 75,
+        "num_clip": 18
+    },
+    {
+        "class_id": 11,
+        "file_id": 76,
+        "num_clip": 16
+    },
+    {
+        "class_id": 11,
+        "file_id": 77,
+        "num_clip": 18
+    },
+    {
+        "class_id": 11,
+        "file_id": 78,
+        "num_clip": 12
+    },
+    {
+        "class_id": 11,
+        "file_id": 79,
+        "num_clip": 14
+    },
+    {
+        "class_id": 11,
+        "file_id": 80,
+        "num_clip": 13
+    },
+    {
+        "class_id": 11,
+        "file_id": 81,
+        "num_clip": 10
+    },
+    {
+        "class_id": 11,
+        "file_id": 82,
+        "num_clip": 17
+    },
+    {
+        "class_id": 11,
+        "file_id": 83,
+        "num_clip": 12
+    },
+    {
+        "class_id": 11,
+        "file_id": 84,
+        "num_clip": 15
+    },
+    {
+        "class_id": 11,
+        "file_id": 85,
+        "num_clip": 9
+    },
+    {
+        "class_id": 11,
+        "file_id": 86,
+        "num_clip": 11
+    },
+    {
+        "class_id": 11,
+        "file_id": 87,
+        "num_clip": 13
+    },
+    {
+        "class_id": 11,
+        "file_id": 88,
+        "num_clip": 12
+    },
+    {
+        "class_id": 11,
+        "file_id": 89,
+        "num_clip": 20
+    },
+    {
+        "class_id": 11,
+        "file_id": 90,
+        "num_clip": 6
+    },
+    {
+        "class_id": 11,
+        "file_id": 91,
+        "num_clip": 8
+    },
+    {
+        "class_id": 11,
+        "file_id": 92,
+        "num_clip": 16
+    },
+    {
+        "class_id": 11,
+        "file_id": 93,
+        "num_clip": 13
+    },
+    {
+        "class_id": 11,
+        "file_id": 94,
+        "num_clip": 13
+    },
+    {
+        "class_id": 11,
+        "file_id": 95,
+        "num_clip": 7
+    },
+    {
+        "class_id": 12,
+        "file_id": 0,
+        "num_clip": 0
+    },
+    {
+        "class_id": 12,
+        "file_id": 1,
+        "num_clip": 22
+    },
+    {
+        "class_id": 12,
+        "file_id": 2,
+        "num_clip": 5
+    },
+    {
+        "class_id": 12,
+        "file_id": 3,
+        "num_clip": 6
+    },
+    {
+        "class_id": 12,
+        "file_id": 4,
+        "num_clip": 7
+    },
+    {
+        "class_id": 12,
+        "file_id": 5,
+        "num_clip": 5
+    },
+    {
+        "class_id": 12,
+        "file_id": 6,
+        "num_clip": 2
+    },
+    {
+        "class_id": 12,
+        "file_id": 7,
+        "num_clip": 7
+    },
+    {
+        "class_id": 13,
+        "file_id": 0,
+        "num_clip": 55
+    },
+    {
+        "class_id": 13,
+        "file_id": 1,
+        "num_clip": 51
+    },
+    {
+        "class_id": 13,
+        "file_id": 2,
+        "num_clip": 57
+    },
+    {
+        "class_id": 13,
+        "file_id": 3,
+        "num_clip": 48
+    },
+    {
+        "class_id": 13,
+        "file_id": 4,
+        "num_clip": 81
+    },
+    {
+        "class_id": 13,
+        "file_id": 5,
+        "num_clip": 38
+    },
+    {
+        "class_id": 13,
+        "file_id": 6,
+        "num_clip": 35
+    },
+    {
+        "class_id": 13,
+        "file_id": 7,
+        "num_clip": 41
+    },
+    {
+        "class_id": 13,
+        "file_id": 8,
+        "num_clip": 61
+    },
+    {
+        "class_id": 13,
+        "file_id": 9,
+        "num_clip": 52
+    },
+    {
+        "class_id": 13,
+        "file_id": 10,
+        "num_clip": 74
+    },
+    {
+        "class_id": 13,
+        "file_id": 11,
+        "num_clip": 69
+    },
+    {
+        "class_id": 13,
+        "file_id": 12,
+        "num_clip": 30
+    },
+    {
+        "class_id": 13,
+        "file_id": 13,
+        "num_clip": 45
+    },
+    {
+        "class_id": 13,
+        "file_id": 14,
+        "num_clip": 33
+    },
+    {
+        "class_id": 13,
+        "file_id": 15,
+        "num_clip": 30
+    },
+    {
+        "class_id": 14,
+        "file_id": 0,
+        "num_clip": 0
+    },
+    {
+        "class_id": 14,
+        "file_id": 1,
+        "num_clip": 22
+    },
+    {
+        "class_id": 14,
+        "file_id": 2,
+        "num_clip": 5
+    },
+    {
+        "class_id": 14,
+        "file_id": 3,
+        "num_clip": 6
+    },
+    {
+        "class_id": 14,
+        "file_id": 4,
+        "num_clip": 7
+    },
+    {
+        "class_id": 14,
+        "file_id": 5,
+        "num_clip": 5
+    },
+    {
+        "class_id": 14,
+        "file_id": 6,
+        "num_clip": 2
+    },
+    {
+        "class_id": 14,
+        "file_id": 7,
+        "num_clip": 7
+    },
+    {
+        "class_id": 15,
+        "file_id": 0,
+        "num_clip": 12
+    },
+    {
+        "class_id": 15,
+        "file_id": 1,
+        "num_clip": 24
+    },
+    {
+        "class_id": 15,
+        "file_id": 2,
+        "num_clip": 2
+    },
+    {
+        "class_id": 15,
+        "file_id": 3,
+        "num_clip": 6
+    },
+    {
+        "class_id": 15,
+        "file_id": 4,
+        "num_clip": 4
+    },
+    {
+        "class_id": 15,
+        "file_id": 5,
+        "num_clip": 34
+    },
+    {
+        "class_id": 15,
+        "file_id": 6,
+        "num_clip": 3
+    },
+    {
+        "class_id": 15,
+        "file_id": 7,
+        "num_clip": 4
+    },
+    {
+        "class_id": 15,
+        "file_id": 8,
+        "num_clip": 4
+    },
+    {
+        "class_id": 15,
+        "file_id": 9,
+        "num_clip": 7
+    },
+    {
+        "class_id": 15,
+        "file_id": 10,
+        "num_clip": 5
+    },
+    {
+        "class_id": 15,
+        "file_id": 11,
+        "num_clip": 7
+    },
+    {
+        "class_id": 15,
+        "file_id": 12,
+        "num_clip": 9
+    },
+    {
+        "class_id": 15,
+        "file_id": 13,
+        "num_clip": 2
+    },
+    {
+        "class_id": 15,
+        "file_id": 14,
+        "num_clip": 4
+    },
+    {
+        "class_id": 15,
+        "file_id": 15,
+        "num_clip": 6
+    },
+    {
+        "class_id": 15,
+        "file_id": 16,
+        "num_clip": 9
+    },
+    {
+        "class_id": 15,
+        "file_id": 17,
+        "num_clip": 13
+    },
+    {
+        "class_id": 15,
+        "file_id": 18,
+        "num_clip": 9
+    },
+    {
+        "class_id": 15,
+        "file_id": 19,
+        "num_clip": 11
+    },
+    {
+        "class_id": 15,
+        "file_id": 20,
+        "num_clip": 27
+    },
+    {
+        "class_id": 15,
+        "file_id": 21,
+        "num_clip": 27
+    },
+    {
+        "class_id": 15,
+        "file_id": 22,
+        "num_clip": 28
+    },
+    {
+        "class_id": 15,
+        "file_id": 23,
+        "num_clip": 16
+    },
+    {
+        "class_id": 15,
+        "file_id": 24,
+        "num_clip": 36
+    },
+    {
+        "class_id": 15,
+        "file_id": 25,
+        "num_clip": 7
+    },
+    {
+        "class_id": 15,
+        "file_id": 26,
+        "num_clip": 6
+    },
+    {
+        "class_id": 15,
+        "file_id": 27,
+        "num_clip": 20
+    },
+    {
+        "class_id": 15,
+        "file_id": 28,
+        "num_clip": 19
+    },
+    {
+        "class_id": 15,
+        "file_id": 29,
+        "num_clip": 23
+    },
+    {
+        "class_id": 15,
+        "file_id": 30,
+        "num_clip": 22
+    },
+    {
+        "class_id": 15,
+        "file_id": 31,
+        "num_clip": 16
+    },
+    {
+        "class_id": 15,
+        "file_id": 32,
+        "num_clip": 15
+    },
+    {
+        "class_id": 15,
+        "file_id": 33,
+        "num_clip": 35
+    },
+    {
+        "class_id": 15,
+        "file_id": 34,
+        "num_clip": 1
+    },
+    {
+        "class_id": 15,
+        "file_id": 35,
+        "num_clip": 23
+    },
+    {
+        "class_id": 15,
+        "file_id": 36,
+        "num_clip": 15
+    },
+    {
+        "class_id": 15,
+        "file_id": 37,
+        "num_clip": 33
+    },
+    {
+        "class_id": 15,
+        "file_id": 38,
+        "num_clip": 25
+    },
+    {
+        "class_id": 15,
+        "file_id": 39,
+        "num_clip": 0
+    },
+    {
+        "class_id": 15,
+        "file_id": 40,
+        "num_clip": 20
+    },
+    {
+        "class_id": 15,
+        "file_id": 41,
+        "num_clip": 3
+    },
+    {
+        "class_id": 15,
+        "file_id": 42,
+        "num_clip": 2
+    },
+    {
+        "class_id": 15,
+        "file_id": 43,
+        "num_clip": 6
+    },
+    {
+        "class_id": 15,
+        "file_id": 44,
+        "num_clip": 4
+    },
+    {
+        "class_id": 15,
+        "file_id": 45,
+        "num_clip": 4
+    },
+    {
+        "class_id": 16,
+        "file_id": 0,
+        "num_clip": 8
+    },
+    {
+        "class_id": 16,
+        "file_id": 1,
+        "num_clip": 19
+    },
+    {
+        "class_id": 16,
+        "file_id": 2,
+        "num_clip": 13
+    },
+    {
+        "class_id": 16,
+        "file_id": 3,
+        "num_clip": 10
+    },
+    {
+        "class_id": 16,
+        "file_id": 4,
+        "num_clip": 11
+    },
+    {
+        "class_id": 16,
+        "file_id": 5,
+        "num_clip": 9
+    },
+    {
+        "class_id": 16,
+        "file_id": 6,
+        "num_clip": 19
+    },
+    {
+        "class_id": 16,
+        "file_id": 7,
+        "num_clip": 11
+    },
+    {
+        "class_id": 16,
+        "file_id": 8,
+        "num_clip": 37
+    },
+    {
+        "class_id": 16,
+        "file_id": 9,
+        "num_clip": 2
+    },
+    {
+        "class_id": 16,
+        "file_id": 10,
+        "num_clip": 14
+    },
+    {
+        "class_id": 16,
+        "file_id": 11,
+        "num_clip": 22
+    },
+    {
+        "class_id": 16,
+        "file_id": 12,
+        "num_clip": 12
+    },
+    {
+        "class_id": 17,
+        "file_id": 0,
+        "num_clip": 65
+    },
+    {
+        "class_id": 17,
+        "file_id": 1,
+        "num_clip": 65
+    },
+    {
+        "class_id": 17,
+        "file_id": 2,
+        "num_clip": 67
+    },
+    {
+        "class_id": 17,
+        "file_id": 3,
+        "num_clip": 74
+    },
+    {
+        "class_id": 17,
+        "file_id": 4,
+        "num_clip": 40
+    },
+    {
+        "class_id": 17,
+        "file_id": 5,
+        "num_clip": 75
+    },
+    {
+        "class_id": 17,
+        "file_id": 6,
+        "num_clip": 4
+    },
+    {
+        "class_id": 18,
+        "file_id": 0,
+        "num_clip": 39
+    },
+    {
+        "class_id": 18,
+        "file_id": 1,
+        "num_clip": 26
+    },
+    {
+        "class_id": 18,
+        "file_id": 2,
+        "num_clip": 39
+    },
+    {
+        "class_id": 18,
+        "file_id": 3,
+        "num_clip": 24
+    },
+    {
+        "class_id": 18,
+        "file_id": 4,
+        "num_clip": 23
+    },
+    {
+        "class_id": 18,
+        "file_id": 5,
+        "num_clip": 38
+    },
+    {
+        "class_id": 18,
+        "file_id": 6,
+        "num_clip": 38
+    },
+    {
+        "class_id": 18,
+        "file_id": 7,
+        "num_clip": 22
+    },
+    {
+        "class_id": 18,
+        "file_id": 8,
+        "num_clip": 26
+    },
+    {
+        "class_id": 18,
+        "file_id": 9,
+        "num_clip": 18
+    },
+    {
+        "class_id": 18,
+        "file_id": 10,
+        "num_clip": 27
+    },
+    {
+        "class_id": 18,
+        "file_id": 11,
+        "num_clip": 36
+    },
+    {
+        "class_id": 18,
+        "file_id": 12,
+        "num_clip": 0
+    },
+    {
+        "class_id": 18,
+        "file_id": 13,
+        "num_clip": 104
+    },
+    {
+        "class_id": 19,
+        "file_id": 0,
+        "num_clip": 37
+    },
+    {
+        "class_id": 19,
+        "file_id": 1,
+        "num_clip": 35
+    },
+    {
+        "class_id": 19,
+        "file_id": 2,
+        "num_clip": 68
+    },
+    {
+        "class_id": 19,
+        "file_id": 3,
+        "num_clip": 59
+    },
+    {
+        "class_id": 19,
+        "file_id": 4,
+        "num_clip": 42
+    },
+    {
+        "class_id": 19,
+        "file_id": 5,
+        "num_clip": 55
+    },
+    {
+        "class_id": 19,
+        "file_id": 6,
+        "num_clip": 37
+    },
+    {
+        "class_id": 19,
+        "file_id": 7,
+        "num_clip": 45
+    },
+    {
+        "class_id": 19,
+        "file_id": 8,
+        "num_clip": 51
+    },
+    {
+        "class_id": 19,
+        "file_id": 9,
+        "num_clip": 53
+    },
+    {
+        "class_id": 19,
+        "file_id": 10,
+        "num_clip": 52
+    },
+    {
+        "class_id": 19,
+        "file_id": 11,
+        "num_clip": 50
+    },
+    {
+        "class_id": 19,
+        "file_id": 12,
+        "num_clip": 29
+    },
+    {
+        "class_id": 19,
+        "file_id": 13,
+        "num_clip": 31
+    },
+    {
+        "class_id": 19,
+        "file_id": 14,
+        "num_clip": 50
+    },
+    {
+        "class_id": 19,
+        "file_id": 15,
+        "num_clip": 47
+    },
+    {
+        "class_id": 19,
+        "file_id": 16,
+        "num_clip": 42
+    },
+    {
+        "class_id": 19,
+        "file_id": 17,
+        "num_clip": 47
+    },
+    {
+        "class_id": 19,
+        "file_id": 18,
+        "num_clip": 4
+    },
+    {
+        "class_id": 19,
+        "file_id": 19,
+        "num_clip": 34
+    },
+    {
+        "class_id": 19,
+        "file_id": 20,
+        "num_clip": 29
+    },
+    {
+        "class_id": 19,
+        "file_id": 21,
+        "num_clip": 51
+    },
+    {
+        "class_id": 19,
+        "file_id": 22,
+        "num_clip": 52
+    },
+    {
+        "class_id": 19,
+        "file_id": 23,
+        "num_clip": 72
+    },
+    {
+        "class_id": 19,
+        "file_id": 24,
+        "num_clip": 51
+    },
+    {
+        "class_id": 19,
+        "file_id": 25,
+        "num_clip": 51
+    },
+    {
+        "class_id": 19,
+        "file_id": 26,
+        "num_clip": 40
+    },
+    {
+        "class_id": 19,
+        "file_id": 27,
+        "num_clip": 34
+    },
+    {
+        "class_id": 19,
+        "file_id": 28,
+        "num_clip": 47
+    },
+    {
+        "class_id": 19,
+        "file_id": 29,
+        "num_clip": 76
+    },
+    {
+        "class_id": 19,
+        "file_id": 30,
+        "num_clip": 74
+    },
+    {
+        "class_id": 19,
+        "file_id": 31,
+        "num_clip": 80
+    },
+    {
+        "class_id": 19,
+        "file_id": 32,
+        "num_clip": 77
+    },
+    {
+        "class_id": 19,
+        "file_id": 33,
+        "num_clip": 72
+    }
+]

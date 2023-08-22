@@ -1,0 +1,82 @@
+[
+    {
+        "class_id": 0,
+        "file_id": 0,
+        "num_clip": 276
+    },
+    {
+        "class_id": 0,
+        "file_id": 1,
+        "num_clip": 239
+    },
+    {
+        "class_id": 1,
+        "file_id": 0,
+        "num_clip": 304
+    },
+    {
+        "class_id": 1,
+        "file_id": 1,
+        "num_clip": 312
+    },
+    {
+        "class_id": 2,
+        "file_id": 0,
+        "num_clip": 353
+    },
+    {
+        "class_id": 2,
+        "file_id": 1,
+        "num_clip": 332
+    },
+    {
+        "class_id": 3,
+        "file_id": 0,
+        "num_clip": 275
+    },
+    {
+        "class_id": 3,
+        "file_id": 1,
+        "num_clip": 290
+    },
+    {
+        "class_id": 4,
+        "file_id": 0,
+        "num_clip": 259
+    },
+    {
+        "class_id": 4,
+        "file_id": 1,
+        "num_clip": 236
+    },
+    {
+        "class_id": 5,
+        "file_id": 0,
+        "num_clip": 410
+    },
+    {
+        "class_id": 5,
+        "file_id": 1,
+        "num_clip": 374
+    },
+    {
+        "class_id": 6,
+        "file_id": 0,
+        "num_clip": 344
+    },
+    {
+        "class_id": 6,
+        "file_id": 1,
+        "num_clip": 318
+    },
+    {
+        "class_id": 7,
+        "file_id": 0,
+        "num_clip": 330
+    },
+    {
+        "class_id": 7,
+        "file_id": 1,
+        "num_clip": 335
+    }
+]
