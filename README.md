@@ -1,6 +1,6 @@
 ## Semi-supervised Motion Style Transfer
 
-<img src="./assets/intro11.gif" alt="intro" style="zoom:75%;" />
+<img src="./assets/111111.gif" alt="intro" style="zoom:75%;" />
 
 ### Installation
 
