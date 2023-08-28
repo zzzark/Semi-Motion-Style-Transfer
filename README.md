@@ -16,9 +16,8 @@ pip install -r requirements.txt
 python run.py --con ./m21_data/content/jumping-jack.bvh --sty ./m21_data/style/OLD-2.bvh
 ```
 
-The original output .bvh file is at ./output/original/OLD-2_jumping-jack.bvh
-
-The foot sliding removed one is at ./output/remove_fs/OLD-2_jumping-jack.bvh
+The original BVH file is saved to ./output/original/OLD-2_jumping-jack.bvh, 
+while the version with removed foot sliding is saved to ./output/remove_fs/OLD-2_jumping-jack.bvh.
 
 More examples:
 
@@ -27,14 +26,18 @@ python run.py --con ./m21_data/content/hop.bvh --sty ./m21_data/style/STR-1.bvh
 ```
 
 
+```
+python run.py --con ./m21_data/content/kick.bvh --sty ./m21_data/style/DEPRESSED.bvh
+```
+
 
 ### Acknowledgments
 
-The implementation of graph neural network in this repository is from the following repository:
+The implementation of the graph neural network and the StyleNet in this repository is from the following repository:
 
 https://github.com/DK-Jang/motion_puzzle
 
-Also thanks the following teams who provide mocap data: 
+Also, we would like to thank the following teams for providing us with mocap data:
 
 CMU dataset: http://mocap.cs.cmu.edu/  and  https://github.com/una-dinosauria/cmu-mocap
 
