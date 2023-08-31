@@ -1,4 +1,4 @@
-## Semi-supervised Motion Style Transfer
+## Semi-supervised Character Motion Style Transfer
 
 <img src="./assets/111111.gif" alt="intro" style="zoom:75%;" />
 
